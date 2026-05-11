@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.0.0.5</version>
+  <url>https://yourdomain.com/MyApp.zip</url>
+  <changelog>https://yourdomain.com/changelog.txt</changelog>
+  <mandatory>false</mandatory>
+</item>
